@@ -20,7 +20,7 @@ colors = [
 st.title("Feminism")
 
 df=pd.read_csv("data.csv")
-
+# g
 st.write("Are feminist movies good?")
 st.write("We have merged the IMDB data from movies with the bechdel test data from Kaggle and decided to investigate the various relationships between art and sociology.")
 st.write("The data we have used is the following:")
